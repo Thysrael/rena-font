@@ -7,5 +7,8 @@
 文档如下：
 
 - [选题报告](./selection.md)
-- [完整想法](./font.md)
-- [展示小记](./report.md)
+- [总纲](./font.md)
+- [ppt 记录](./ppt.md)
+- [论据](./data.md)
+- [框架](./skeleton.md)
+- [图片文件夹](./img/)
